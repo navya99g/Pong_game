@@ -1,5 +1,5 @@
 # Pong_game
-A simple two-player Pong game built using Python's 'Screen' module. Players control paddles to bounce a ball and score points.  
+A simple two-player Pong game built using Python's 'Turtle' module. Players control paddles to bounce a ball and score points.  
 
 ## How to Play  
   1. Player 1 (Left Paddle):  
